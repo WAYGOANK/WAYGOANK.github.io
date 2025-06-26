@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wayblog.top/2025/06/18/VUE/</loc>
-    
-    <lastmod>2025-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://wayblog.top/2025/06/18/Spring+Mybatis/</loc>
     
     <lastmod>2025-06-26</lastmod>
@@ -39,6 +30,15 @@
   
   <url>
     <loc>http://wayblog.top/2025/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+    
+    <lastmod>2025-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayblog.top/2025/06/18/VUE/</loc>
     
     <lastmod>2025-06-26</lastmod>
     
