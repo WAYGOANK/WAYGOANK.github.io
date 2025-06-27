@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://wayblog.top/2025/06/18/VUE/</loc>
+    <loc>http://wayblog.top/2025/06/27/lnmp+workpress%20%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-06-27</lastmod>
   </url>
   <url>
-    <loc>http://wayblog.top/2025/06/18/Spring+Mybatis/</loc>
+    <loc>http://wayblog.top/2025/06/27/Archlinux%E5%AE%89%E8%A3%85%E8%B8%A9%E5%9D%91/</loc>
+    <lastmod>2025-06-27</lastmod>
+  </url>
+  <url>
+    <loc>http://wayblog.top/2025/06/27/Archlinux%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2025-06-27</lastmod>
+  </url>
+  <url>
+    <loc>http://wayblog.top/2025/06/18/hexo%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-06-27</lastmod>
   </url>
   <url>
@@ -13,7 +21,11 @@
     <lastmod>2025-06-27</lastmod>
   </url>
   <url>
-    <loc>http://wayblog.top/2025/06/18/hexo%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://wayblog.top/2025/06/18/VUE/</loc>
+    <lastmod>2025-06-27</lastmod>
+  </url>
+  <url>
+    <loc>http://wayblog.top/2025/06/18/Spring+Mybatis/</loc>
     <lastmod>2025-06-27</lastmod>
   </url>
   <url>
