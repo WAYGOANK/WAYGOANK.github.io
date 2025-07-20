@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://wayblog.top/2025/07/01/Redis/</loc>
+    <loc>http://wayblog.top/2025/07/03/RabbitMQ/</loc>
     <lastmod>2025-07-20</lastmod>
   </url>
   <url>
@@ -9,8 +9,8 @@
     <lastmod>2025-07-20</lastmod>
   </url>
   <url>
-    <loc>http://wayblog.top/2025/07/03/RabbitMQ/</loc>
-    <lastmod>2025-07-03</lastmod>
+    <loc>http://wayblog.top/2025/07/01/Redis/</loc>
+    <lastmod>2025-07-20</lastmod>
   </url>
   <url>
     <loc>http://wayblog.top/2025/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>

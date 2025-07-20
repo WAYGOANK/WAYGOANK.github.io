@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wayblog.top/2025/07/01/Redis/</loc>
+    <loc>http://wayblog.top/2025/07/03/RabbitMQ/</loc>
     
     <lastmod>2025-07-20</lastmod>
     
@@ -20,9 +20,9 @@
   </url>
   
   <url>
-    <loc>http://wayblog.top/2025/07/03/RabbitMQ/</loc>
+    <loc>http://wayblog.top/2025/07/01/Redis/</loc>
     
-    <lastmod>2025-07-03</lastmod>
+    <lastmod>2025-07-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
