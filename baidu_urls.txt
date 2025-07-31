@@ -1,3 +1,4 @@
+http://wayblog.top/2025/07/25/Nginx%E5%85%A5%E9%97%A8/
 http://wayblog.top/2025/07/20/css%E5%9F%BA%E7%A1%80/
 http://wayblog.top/2025/07/03/RabbitMQ/
 http://wayblog.top/2025/07/01/Redis/
@@ -7,4 +8,3 @@ http://wayblog.top/2025/06/27/Archlinux%E5%AE%89%E8%A3%85%E8%B8%A9%E5%9D%91/
 http://wayblog.top/2025/06/27/Archlinux%E5%AE%89%E8%A3%85/
 http://wayblog.top/2025/06/18/VUE/
 http://wayblog.top/2025/06/18/JAVA%E7%BC%96%E7%A8%8B/
-http://wayblog.top/2025/06/18/Spring+Mybatis/

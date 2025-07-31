@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://wayblog.top/2025/07/25/Nginx%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2025-07-31</lastmod>
+  </url>
+  <url>
+    <loc>http://wayblog.top/2025/06/18/JAVA%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2025-07-24</lastmod>
+  </url>
+  <url>
+    <loc>http://wayblog.top/2025/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2025-07-22</lastmod>
+  </url>
+  <url>
     <loc>http://wayblog.top/2025/07/03/RabbitMQ/</loc>
     <lastmod>2025-07-20</lastmod>
   </url>
@@ -11,10 +23,6 @@
   <url>
     <loc>http://wayblog.top/2025/07/01/Redis/</loc>
     <lastmod>2025-07-20</lastmod>
-  </url>
-  <url>
-    <loc>http://wayblog.top/2025/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2025-07-02</lastmod>
   </url>
   <url>
     <loc>http://wayblog.top/2025/06/18/Spring+Mybatis/</loc>
@@ -38,10 +46,6 @@
   </url>
   <url>
     <loc>http://wayblog.top/2025/06/18/hexo%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-06-27</lastmod>
-  </url>
-  <url>
-    <loc>http://wayblog.top/2025/06/18/JAVA%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2025-06-27</lastmod>
   </url>
   <url>
