@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://wayblog.top/2025/08/01/Django/</loc>
+    <lastmod>2025-08-01</lastmod>
+  </url>
+  <url>
     <loc>http://wayblog.top/2025/07/25/Nginx%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2025-07-31</lastmod>
   </url>
